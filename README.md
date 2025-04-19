@@ -9,3 +9,5 @@ Dataset Overview
 - **Image Type**: RGB (Color)
 - **Image Shape**: Consistently sized to 224x224 (after preprocessing)
 
+  PDF file CNN_Assg_Waste_Segregation_Results_summary contains all results.
+
